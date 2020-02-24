@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DMII</string>
+    <string name="entrez_votre_texte">Enter the first number</string>
+    <string name="entrez_votre_texte2">Enter the second number</string>
+    <string name="result">Sum of %f and %f = %f</string>
+    <string name="calcul">Calculate</string>
+</resources>
